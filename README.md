@@ -9,9 +9,10 @@
 This program utilizes the Structural Similarity Index Measure (SSIM) to accurately identify any tampering attempts on Pan Cards.   It is used to quantify the resemblance between two photographs.   A Pan Card is considered tampered if its SSIM value, as compared to the original Pan Card template, is low.  
 
 
-Original Pan Card template: https://github.com/NayakSubhransu/Pan-Card-Detection-/blob/main/Images/original.png
 
-Tampered Pan Card Sample: https://github.com/NayakSubhransu/Pan-Card-Detection-/blob/main/Images/tampered.png
+<a href='https://github.com/NayakSubhransu/Pan-Card-Detection-/blob/main/Images/original.png'>Original Pan Card template:</a>
+
+<a href='https://github.com/NayakSubhransu/Pan-Card-Detection-/blob/main/Images/tampered.png'>Tampered Pan Card Sample:</a>
 
 See the implementation details with <a href="https://github.com/NayakSubhransu/Pan-Card-Detection-/blob/main/PAN%20Detection.ipynb">IPython Notebook</a>
 </p>
