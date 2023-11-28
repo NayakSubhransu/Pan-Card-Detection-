@@ -19,18 +19,21 @@ See the implementation details with <a href="https://github.com/NayakSubhransu/P
 
 ## `Getting Started`
 
-This Project is Built With [![Anaconda][anaconda-shield]][anaconda-url]
+This Project is Built With  <br />
+[![Anaconda][anaconda-shield]][anaconda-url]
 
-<p align="right">
-(<a href="#readme-top">back to top</a>)
-</p>
+
 
 ## `Requirements`
 
 - skimage
 - opencv
 - PIL
-- requests 
+- requests
+
+<p align="right">
+(<a href="#readme-top">back to top</a>)
+</p>
 
 [anaconda-shield]: https://raw.githubusercontent.com/Pranav-Nagpure/Support-Repository/master/images/anaconda-shield.png
 [anaconda-url]: https://www.anaconda.com "Anaconda"
