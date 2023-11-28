@@ -20,7 +20,7 @@ See the implementation details with <a href="https://github.com/NayakSubhransu/P
 ## `Getting Started`
 
 This Project is Built With  <br /><br />
-[![Anaconda][anaconda-shield]][anaconda-url][![VSCode][vscode-shield]][vscode-url]
+[![Anaconda][anaconda-shield]][anaconda-url]  [![VSCode][vscode-shield]][vscode-url]
 
 
 
