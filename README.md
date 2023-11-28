@@ -19,7 +19,7 @@ See the implementation details with <a href="https://github.com/NayakSubhransu/P
 
 ## `Getting Started`
 
-This Project is Built With  <br />
+This Project is Built With  <br /><br />
 [![Anaconda][anaconda-shield]][anaconda-url]
 
 
